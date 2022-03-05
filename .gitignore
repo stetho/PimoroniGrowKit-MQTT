@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+config.yaml
+confif.yml
+
 # C extensions
 *.so
 .idea
